@@ -266,7 +266,7 @@
 		</colgroup>
 		<tbody>
 			<tr>
-				<td><label for="class">Class of travel</label> <form:select
+				<td><label for="class">1.23.Class of travel</label> <form:select
 					id="class" path="flightClass">
 					<form:option value="Economy">Economy</form:option>
 					<form:option value="Business">Business</form:option>
